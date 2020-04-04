@@ -25,12 +25,12 @@ Be The Hero
 </p>
 
 <p align="center">
-  <img src="images/index.png" height="250"
- width="150" alt="index">
+  <img src="images/index.png" height="500"
+ width="300" alt="index">
   <br>
   <br>
-  <img src="images/incidente.png" height="250"
- width="150" alt="incident">
+  <img src="images/incidente.png" height="500"
+ width="300" alt="incident">
   <br>
 </p>
 
